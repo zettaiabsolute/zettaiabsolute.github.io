@@ -46,7 +46,7 @@ const translations = {
   en: {
     label_store: "STORE",
     label_contactUs: "CONTACT US",
-    label_intro: "A group of web-gen animators. We're a discord community of animators all striving to improve.",
+    label_intro: "//A group of web-gen animators. We're a discord community of animators all striving to improve.~",
     label_checkAnim: "Check out our animations!",
     label_wishJoin: "Wish to join our community?",
     label_ifYouWant:"If you want to join the community",
@@ -58,7 +58,7 @@ const translations = {
   jp: {
     label_store: "店",
     label_contactUs: "お問い合わせ",
-    label_intro: "ウェブ制作アニメーターのグループです。向上心旺盛なアニメーターたちが集うDiscordコミュニティです。",
+    label_intro: "//ウェブ制作アニメーターのグループです。向上心旺盛なアニメーターたちが集うDiscordコミュニティです。~",
     label_checkAnim: "のアニメーションをチェックしてください!",
     label_wishJoin: "のコミュニティに参加したいですか?",
     label_ifYouWant:"コミュニティに参加したい場合",
