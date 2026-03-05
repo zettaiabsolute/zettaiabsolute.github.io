@@ -52,7 +52,7 @@ const translations = {
     label_ifYouWant:"If you want to join the community",
     label_readInfo: "Read this",
     label_wantWork: "Want to work with us?",
-    label_knownAs: "Our community is known as <b>Zettai Absolute</b><br>While our studio goes by the name <b>Zettai Beyond</b>",
+    label_knownAs: "Our community is <b>Zettai Absolute</b><br>Our studio is <b>Zettai Beyond</b>",
     label_sendEmail: "Send us an email!"
   },
   jp: {
